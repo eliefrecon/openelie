@@ -1,5 +1,6 @@
 p, h1 {
     color: black;
+    font-family: "Boldonse", system-ui;
     /* ceci est un commentaire */
 }
 
@@ -10,4 +11,5 @@ a {
 
 .pro_pass {
     color: #A5B4FC;
+    font-family: "Boldonse", system-ui;
 }
