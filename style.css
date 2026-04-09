@@ -1,15 +1,32 @@
-p, h1 {
+h1, h2 {
     color: black;
     font-family: "Boldonse", system-ui;
+    font-size: 2.5em;
+    color: #A5B4FC;
     /* ceci est un commentaire */
 }
 
 a {
     color: black;
-    font-family: "Boldonse", system-ui;
+    font-family: "Oswald", system-ui;
+    text-decoration: none;
 }
 
-.pro_pass {
+em {
     color: #A5B4FC;
     font-family: "Boldonse", system-ui;
+    font-size: 0.9em;
+    font-style: normal;
+}
+
+p {
+    color: black;
+    font-family: "Oswald", system-ui;
+    font-size: 1.1em;
+}
+
+ul {
+    color: black;
+    font-family: "Oswald", system-ui;
+    font-size: 1em;
 }
